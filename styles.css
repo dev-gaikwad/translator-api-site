@@ -95,10 +95,10 @@ body {
 }
 
 #txt-input {
-    width: 100%;
+    width: 50vw;
     height: 10vh;
     padding: 1rem;
-    margin: 1rem;
+    margin: auto;
     display: block;
     font-family: 'Josefin Sans', sans-serif;
     font-size: large;
@@ -108,10 +108,10 @@ body {
 
 #output-block {
     border: 1px solid black;
-    width: 100%;
+    width: 50vw;
     height: 10vh;
     padding: 1rem;
-    margin: 1rem;
+    margin: auto;
     font-family: 'Josefin Sans', sans-serif;
     font-size: large;
     text-align: center;
