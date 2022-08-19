@@ -36,7 +36,6 @@ function clickHandler(charachterSelect){
 
 }
 
-
 btnTranslateMinion.addEventListener("click", function(){clickHandler("minion")})
 btnTranslateYoda.addEventListener("click", function(){clickHandler("yoda")})
 btnTranslateKlingon.addEventListener("click", function(){clickHandler("klingon")})
